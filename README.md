@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ibrahimcbc/leet-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/ibrahimcbc/leet-solutions/tree/master/0217-contains-duplicate) |
+| [0907-koko-eating-bananas](https://github.com/ibrahimcbc/leet-solutions/tree/master/0907-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,4 +48,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ibrahimcbc/leet-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0907-koko-eating-bananas](https://github.com/ibrahimcbc/leet-solutions/tree/master/0907-koko-eating-bananas) |
 <!---LeetCode Topics End-->
