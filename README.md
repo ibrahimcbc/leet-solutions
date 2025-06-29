@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0143-reorder-list](https://github.com/ibrahimcbc/leet-solutions/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ibrahimcbc/leet-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/ibrahimcbc/leet-solutions/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/ibrahimcbc/leet-solutions/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/ibrahimcbc/leet-solutions/tree/master/0883-car-fleet) |
 ## Recursion
@@ -96,4 +97,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ibrahimcbc/leet-solutions/tree/master/0022-generate-parentheses) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/ibrahimcbc/leet-solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
