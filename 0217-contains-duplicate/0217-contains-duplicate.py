@@ -4,10 +4,7 @@ class Solution(object):
         :type nums: List[int]
         :rtype: bool
         """
-        detect= {}
-        for i in range(len(nums)):
-            if nums[i] in detect:
-                return True
-            detect[nums[i]]=i
-        return False
+        if(len(set(nums)) == len(nums)):
+            return False
+        return True
         
