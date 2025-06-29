@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ibrahimcbc/leet-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/ibrahimcbc/leet-solutions/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -42,4 +43,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/ibrahimcbc/leet-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/ibrahimcbc/leet-solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/ibrahimcbc/leet-solutions/tree/master/0206-reverse-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ibrahimcbc/leet-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
