@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/ibrahimcbc/leet-solutions/tree/master/0015-3sum) |
 | [0074-search-a-2d-matrix](https://github.com/ibrahimcbc/leet-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ibrahimcbc/leet-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ibrahimcbc/leet-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/ibrahimcbc/leet-solutions/tree/master/0217-contains-duplicate) |
 | [0792-binary-search](https://github.com/ibrahimcbc/leet-solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/ibrahimcbc/leet-solutions/tree/master/0907-koko-eating-bananas) |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/ibrahimcbc/leet-solutions/tree/master/0015-3sum) |
 | [0141-linked-list-cycle](https://github.com/ibrahimcbc/leet-solutions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/ibrahimcbc/leet-solutions/tree/master/0143-reorder-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ibrahimcbc/leet-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Stack
 |  |
 | ------- |
@@ -56,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ibrahimcbc/leet-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ibrahimcbc/leet-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ibrahimcbc/leet-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/ibrahimcbc/leet-solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/ibrahimcbc/leet-solutions/tree/master/0907-koko-eating-bananas) |
 ## Matrix
