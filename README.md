@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/ibrahimcbc/leet-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ibrahimcbc/leet-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ibrahimcbc/leet-solutions/tree/master/0015-3sum) |
+| [0036-valid-sudoku](https://github.com/ibrahimcbc/leet-solutions/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/ibrahimcbc/leet-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/ibrahimcbc/leet-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ibrahimcbc/leet-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ibrahimcbc/leet-solutions/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/ibrahimcbc/leet-solutions/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/ibrahimcbc/leet-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/ibrahimcbc/leet-solutions/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/ibrahimcbc/leet-solutions/tree/master/0217-contains-duplicate) |
@@ -80,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ibrahimcbc/leet-solutions/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/ibrahimcbc/leet-solutions/tree/master/0074-search-a-2d-matrix) |
 ## Greedy
 |  |
