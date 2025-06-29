@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ibrahimcbc/leet-solutions/tree/master/0011-container-with-most-water) |
 | [0074-search-a-2d-matrix](https://github.com/ibrahimcbc/leet-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ibrahimcbc/leet-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/ibrahimcbc/leet-solutions/tree/master/0217-contains-duplicate) |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ibrahimcbc/leet-solutions/tree/master/0011-container-with-most-water) |
 | [0141-linked-list-cycle](https://github.com/ibrahimcbc/leet-solutions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/ibrahimcbc/leet-solutions/tree/master/0143-reorder-list) |
 ## Stack
@@ -57,4 +59,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ibrahimcbc/leet-solutions/tree/master/0074-search-a-2d-matrix) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/ibrahimcbc/leet-solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
