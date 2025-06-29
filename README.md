@@ -7,12 +7,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ibrahimcbc/leet-solutions/tree/master/0009-palindrome-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ibrahimcbc/leet-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Array
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ibrahimcbc/leet-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ibrahimcbc/leet-solutions/tree/master/0015-3sum) |
 | [0074-search-a-2d-matrix](https://github.com/ibrahimcbc/leet-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ibrahimcbc/leet-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ibrahimcbc/leet-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ibrahimcbc/leet-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/ibrahimcbc/leet-solutions/tree/master/0217-contains-duplicate) |
@@ -51,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/ibrahimcbc/leet-solutions/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ibrahimcbc/leet-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0739-daily-temperatures](https://github.com/ibrahimcbc/leet-solutions/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/ibrahimcbc/leet-solutions/tree/master/0883-car-fleet) |
 ## Recursion
